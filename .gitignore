@@ -1,0 +1,6 @@
+receipt-scanner-app/
+receipt-scanner-mobile/
+*.json
+.env
+__pycache__/
+venv/
